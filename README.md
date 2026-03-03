@@ -14,7 +14,9 @@
     <img src="https://img.shields.io/badge/☕_Buy_Me_a_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
   </a>
 </p>
-
+<p align="center">
+  <img src="https://github.com/3astbeast/RedTail-FRVP/blob/main/Screenshot%202026-03-03%20124839.png" width="800" alt="RedTail Market Structure Screenshot"/>
+</p>
 ---
 
 ## Overview
